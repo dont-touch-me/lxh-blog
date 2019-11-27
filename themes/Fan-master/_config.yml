@@ -24,11 +24,11 @@ toc:
     enable: false
     data:
       -
-        url: https://github.com/fan-lv
+        url: https://github.com/dont-touch-me
         text: 友链1:这是简介
-      - url: https://github.com/fan-lv
+      - url: https://github.com/dont-touch-me
         text: 友链2
-      - url: https://github.com/fan-lv
+      - url: https://github.com/dont-touch-me
         text: 友链3
 
 # Footer Settings
@@ -39,13 +39,13 @@ links:
   enable: true
   data:
     -
-      url: https://github.com/fan-lv
+      url: https://github.com/dont-touch-me
       text: GitHub
     -
-      url: mailto:15757856604@163.com
+      url: mailto:2605136093@qq.com
       text: E-Mail
     -
-      url: tencent://message/?uin=1019593584&Site=&Menu=yes
+      url: tencent://message/?uin=2605136093&Site=&Menu=yes
       text: QQ
 
 
