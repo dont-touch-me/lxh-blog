@@ -32,7 +32,7 @@ customize:
         linkedin: /
     show_all_posts: false
     post_count: 5
-    highlight: monokai
+    highlight: atelier-forest-dark
 
 # RSS
 rss: false
