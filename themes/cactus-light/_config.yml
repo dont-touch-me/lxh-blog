@@ -2,9 +2,9 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/gabithume
+  Projects: http://github.com/dont-touch-me
 
-projects_url: http://github.com/gabithume
+projects_url: http://github.com/dont-touch-me
 
 customize:
     gravatar:
@@ -27,8 +27,7 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/gabithume/cactus-light
-        twitter: /
+        github: http://github.com/dont-touch-me
         facebook: /
         linkedin: /
     show_all_posts: false
