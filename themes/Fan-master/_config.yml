@@ -4,10 +4,10 @@
 
 # main menu navigation
 menu:
-  Home: /
-  Tags: /tags
-  Categories: /categories
-  Archives: /archives
+  Home: /index
+  Tags: /tag
+  Categories: /category
+  Archives: /archive
   About: /about
 
 # Miscelaneous
