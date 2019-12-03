@@ -4,10 +4,10 @@
 
 # main menu navigation
 menu:
-  Home: /index
-  Tags: /tag
-  Categories: /category
-  Archives: /archive
+  Home: /
+  Tags: /tags
+  Categories: /categories
+  Archives: /archives
   About: /about
 
 # Miscelaneous
@@ -97,13 +97,13 @@ auto_excerpt:
 
 # algolia 搜索
 algolia_search:
-  enable: true
+  enable: false
   hits:
     per_page: 10
 
 # 本地搜索
 local_search:
-  enable: true
+  enable: false
 
 # 复制代码
 post_copyright:
