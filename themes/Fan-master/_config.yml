@@ -97,13 +97,13 @@ auto_excerpt:
 
 # algolia 搜索
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 10
 
 # 本地搜索
 local_search:
-  enable: false
+  enable: true
 
 # 复制代码
 post_copyright:
